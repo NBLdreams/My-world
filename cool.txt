@@ -1,1 +1,2 @@
 start learning git-dog
+now I am upadting with vs code
